@@ -1,0 +1,6 @@
+rootProject.name = 'DependencyInversionExample'
+
+include('modules:application')
+include('modules:restapi')
+
+
